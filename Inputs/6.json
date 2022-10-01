@@ -1,0 +1,35 @@
+{
+    "name": "Pixel Vizslas #7",
+    "symbol": "SVIZ-Pixels",
+    "description": "These pixelated Vizslas roam the galaxy searching for a loving home.",
+    "seller_fee_basis_points": 500,
+    "image": "6.png",
+    "external_url": "https://www.spacevizsla.org",
+    "attributes": [
+        {
+            "trait_type": "Backgrounds",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Vizla",
+            "value": "Normal"
+        },
+        {
+            "trait_type": "Border",
+            "value": "None"
+        },
+        {
+            "trait_type": "Special",
+            "value": "Extra Friendly"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "6.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image"
+    }
+}
