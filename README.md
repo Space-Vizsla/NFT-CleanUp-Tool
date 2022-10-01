@@ -1,4 +1,4 @@
-# Sorting tool for Solana NFTs to exclude unwanted NFT combinations
+# Clean-up tool for Solana NFTs to exclude unwanted NFT combinations in a collection.
 
 ###### tags: `solana` `nfts` `tool` `exclude` `exclude tool` 
 
